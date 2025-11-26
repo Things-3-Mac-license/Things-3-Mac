@@ -1,6 +1,6 @@
 ## Things 3 Mac Personal License
 
-<img src="https://cdn.jim-nielsen.com/macos/512/things-3-2023-06-06.png?rf=1024" width="200" alt="App icon" align="left"/>
+<img src="https://cdn.jim-nielsen.com/macos/512/things-3-2017-05-19.png?rf=1024" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Things 3 for macOS</h3>
@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Personal%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://cdn.macstories.net/1683126098-things-3-18-mac-hero.jpg" width="824" alt="Screenshot"/>
+<img src="https://cdn.macstories.net/001/2017-05-16-19-00-50.jpeg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -62,7 +62,7 @@ As new versions appear, <a href="https://placeholder.link">Things 3</a> aims to 
 ## Screenshots
 
 <p align="center">
-  <img src="https://things-mac-app.s3.amazonaws.com/screenshots/mac-inbox.jpg" width="824" alt="Things 3 screenshot"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*nbSIUIpX2pVEN2LQ.jpg" width="824" alt="Things 3 screenshot"/>
 </p>
 
 ---
